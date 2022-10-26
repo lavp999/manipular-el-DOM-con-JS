@@ -1,1 +1,5 @@
-let mydiv = document.querySelector("#myDiv");
+let myDiv = document.querySelector("#myDiv");
+
+myDiv.style.background = "yellow";
+
+console.log(myDiv);
